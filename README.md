@@ -5,10 +5,10 @@ O bootcamp Unimed-BH Ciência de Dados é para profissionais que já atuam com c
 
 [Projeto Análise Dados com Python e Pandas](https://github.com/VagnerF/Analise_dados_com_python_pandas) ✔️
 
-[Projeto Criação de Pacotes de Processamento de Imagens com Python]() ✔️
+[Projeto Criação de Pacotes de Processamento de Imagens com Python](https://github.com/VagnerF/Pacotes_processamento_imagens_com_python) ✔️
 
-[Projeto Modelo de Machine Learning para prever a Evolução do COVID-19 no Brasil]() ✔️
+[Projeto Modelo de Machine Learning para prever a Evolução do COVID-19 no Brasil](https://github.com/VagnerF/Modelo_machine_learning_previsao_COVID19) ✔️
 
-[Projeto Explorando Dados Demográficos com Serviços de Big Data na AWS]() ✔️
+[Projeto Explorando Dados Demográficos com Serviços de Big Data na AWS](https://github.com/VagnerF/Explorando_dados_com_bigdata_AWS) ✔️
 
-[Projeto Treinamento de Redes Neurais com Transfer Learning]() ✔️
+[Projeto Treinamento de Redes Neurais com Transfer Learning](https://github.com/VagnerF/Redes_neurais_com_transfer_learning) ✔️
