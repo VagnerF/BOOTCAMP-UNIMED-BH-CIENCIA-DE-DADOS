@@ -1,5 +1,5 @@
 # BOOTCAMP UNIMED BH CIENCIA DE DADOS
-O bootcamp Unimed-BH Ciência de Dados é para profissionais que já atuam com ciência de dados ou estão começando na carreira. Durante o programa, você vai ter experiências educacionais com Python, banco de dados relacional e não relacional, além de uma imersão Cloud Computer e Machine Learning. 
+O bootcamp Unimed-BH Ciência de Dados é para profissionais que já atuam com ciência de dados ou estão começando na carreira. Durante o programa, foi trabalhado experiências educacionais com Python, banco de dados relacional e não relacional, além de uma imersão Cloud Computer e Machine Learning. 
 
 [Projetos Banco de Dados Relacional e não Relacional](https://github.com/VagnerF/BOOTCAMP-DIO-DATABASE-EXP) ✔️
 
